@@ -6,6 +6,9 @@
 
 - practice on React Hooks (useState)
 
+## Live Preview
+[Click Here](https://shiny-gnome-cde7d3.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
